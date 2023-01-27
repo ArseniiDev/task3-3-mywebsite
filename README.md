@@ -6,5 +6,5 @@
 
 Спасибо за проверку ДЗ!
 
-[8470B6FA-B697-4777-87BC-D2E15914A389_1_105_c](https://user-images.githubusercontent.com/123592103/215186932-f74804f3-16f1-444b-b039-02fd0fe3eaee.jpeg)
+![8470B6FA-B697-4777-87BC-D2E15914A389_1_105_c](https://user-images.githubusercontent.com/123592103/215186932-f74804f3-16f1-444b-b039-02fd0fe3eaee.jpeg)
 
